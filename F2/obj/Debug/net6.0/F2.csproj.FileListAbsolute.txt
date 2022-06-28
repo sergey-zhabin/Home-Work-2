@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\bin\Debug\net6.0\F2.exe
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\bin\Debug\net6.0\F2.deps.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\bin\Debug\net6.0\F2.runtimeconfig.json
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\bin\Debug\net6.0\F2.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\bin\Debug\net6.0\F2.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\refint\F2.dll
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.pdb
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\F2.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Учеба IT\C#\Lesson 2\Seminar2\F2\obj\Debug\net6.0\ref\F2.dll
